@@ -1,6 +1,6 @@
 # Hi there, I'm Tarun Solanki! 👋
 
-I am a BCA graduate currently pursuing my **MCA (Master of Computer Applications)**. My passion lies at the intersection of software development and cloud computing.
+I am a BCA graduate currently pursuing my **MCA (Master of Computer Applications)**. My passion lies at the intersection of cloud computing and devops.
 
 - 🔭 I’m currently working on cloud-native projects and mastering AWS.
 - 🌱 I’m learning advanced Cloud Architecture, DevOps tools, and scalable systems.

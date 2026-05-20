@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Tarun Solanki! 👋
 
-<!--
-**tarunsolanki91/tarunsolanki91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a BCA graduate currently pursuing my **MCA (Master of Computer Applications)**. My passion lies at the intersection of software development and cloud computing.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on cloud-native projects and mastering AWS.
+- 🌱 I’m learning advanced Cloud Architecture, DevOps tools, and scalable systems.
+- 💬 Ask me about basic cloud services, deployment strategies, or college tech stacks.
+- 📫 How to reach me: [Your LinkedIn/Email Link]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Cloud:** AWS (EC2, S3, IAM, Lambda)
+- **Languages:** Python, Java, SQL
+- **Tools:** Git, GitHub, Docker (Learning)

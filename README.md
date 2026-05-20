@@ -5,9 +5,9 @@ I am a BCA graduate currently pursuing my **MCA (Master of Computer Applications
 - 🔭 I’m currently working on cloud-native projects and mastering AWS.
 - 🌱 I’m learning advanced Cloud Architecture, DevOps tools, and scalable systems.
 - 💬 Ask me about basic cloud services, deployment strategies, or college tech stacks.
-- 📫 How to reach me: [Your LinkedIn/Email Link]
+- 📫 How to reach me: Email: tarunsolanki9131@gmail.com
 
 ### 🛠️ Tech Stack & Tools
 - **Cloud:** AWS (EC2, S3, IAM, Lambda)
-- **Languages:** Python, Java, SQL
+- **Languages:** Python
 - **Tools:** Git, GitHub, Docker (Learning)
